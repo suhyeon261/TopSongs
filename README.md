@@ -7,3 +7,5 @@
 5. Bada Boom
 6. 회전목마
 7. one day
+8. Permission to Dance
+9. Dynamite
