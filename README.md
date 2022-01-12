@@ -10,3 +10,4 @@
 8. Permission to Dance
 9. Dynamite
 10. 회전목마
+11. Amazing
